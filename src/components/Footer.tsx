@@ -2,12 +2,11 @@ import { Link } from "react-router-dom";
 import Icon from "@/components/ui/icon";
 
 const CATEGORY_LINKS = [
-  { label: "Рукава ПВХ напорные", href: "/catalog/rukava-pvh" },
-  { label: "Рукава ТПУ напорные", href: "/catalog/rukava-tpu" },
-  { label: "Рукава TPE", href: "/catalog/rukava-tpe" },
-  { label: "Рукава резиновые", href: "/catalog/rukava-rezinovye" },
-  { label: "Буксируемые рукава", href: "/catalog/buksiruemye-rukava" },
-  { label: "Магистральные рукава", href: "/catalog/magistralnye-rukava" },
+  { label: "Серия 180 — 4 Атм", href: "/catalog/seriya-180" },
+  { label: "Серия 186 — 6 Атм", href: "/catalog/seriya-186" },
+  { label: "Серия 190 — 10-16 Атм", href: "/catalog/seriya-190" },
+  { label: "Магистральные NBR", href: "/catalog/magistralnye-nbr" },
+  { label: "Буксируемые TPU", href: "/catalog/buksiruemye-tpu" },
 ];
 
 const INFO_LINKS = [
